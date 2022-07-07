@@ -1,2 +1,4 @@
-# praticas-em-python
- primeiras praticas com python 
+# Praticas em Python!
+
+ Primeiras praticas com python 
+
